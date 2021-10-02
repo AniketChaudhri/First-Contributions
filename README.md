@@ -2,6 +2,7 @@
 Learn how to make pull requests.
 
 How to make a valid pull request and participate in HacktoberFest?
+
 1.Fork this repository to your profile from top right of this page.
 
 2.Clone the repository to your local machine.
