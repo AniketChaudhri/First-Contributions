@@ -36,4 +36,23 @@ Note:
 2. Add any jpg or png or gif into assets directory with your github username if you want to showcase a pic/gif in README.md and copy the download url.
 
 
+Resources:-
+- [Slides](https://www.canva.com/design/DAErYUPekQ0/irn3NgXTtVkpfbfyGDbFNg/view?utm_content=DAErYUPekQ0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+1. IssueHub - http://issuehub.io/
+
+2. Code Triage - https://www.codetriage.com/
+
+3. Up for Grabs - https://up-for-grabs.net/#/
+
+4. Contrib - https://gauger.io/contrib/#/language/javascript
+
+5. First Timers Only - https://www.firsttimersonly.com/
+
+6. Awesome First Timers - https://github.com/MunGell/awesome-for-beginners/
+
+7. Pull Request Roulette - http://www.pullrequestroulette.com/
+
+8. GitHub Search - https://github.com/search
+
+Making company specific PR - [List of companies to make PR](https://hacktoberfestswaglist.com/#a-to-z-order-of-companies)
