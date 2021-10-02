@@ -1,4 +1,5 @@
 # First-Contributions
+
 Learn how to make pull requests.
 
 How to make a valid pull request and participate in HacktoberFest?
@@ -28,16 +29,16 @@ You will see one 'Contribute' button. Click on it.
 
 7.You will see a pull request form. Fill in the form and click on 'Create pull request' button. (Make sure the branch you are trying to merge is the same as your forked repository branch. say 2021 for now)
 
-
-Note:
-1. You can use Markdown syntax for formatting.
-
-
-2. Add any jpg or png or gif into assets directory with your github username if you want to showcase a pic/gif in README.md and copy the download url.
-
+Note: You can use Markdown syntax for formatting. [Learn Markdown](https://www.markdownguide.org/getting-started/)
 
 Resources:-
 - [Slides](https://www.canva.com/design/DAErYUPekQ0/irn3NgXTtVkpfbfyGDbFNg/view?utm_content=DAErYUPekQ0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [README.md Templates](https://readme.so/)
+- [Git tutorials](https://www.youtube.com/watch?v=RGOj5yH7evk)
+ 
+---
+
+## Find issues to work on
 
 1. IssueHub - http://issuehub.io/
 
@@ -54,5 +55,7 @@ Resources:-
 7. Pull Request Roulette - http://www.pullrequestroulette.com/
 
 8. GitHub Search - https://github.com/search
+
+---
 
 Making company specific PR - [List of companies to make PR](https://hacktoberfestswaglist.com/#a-to-z-order-of-companies)
