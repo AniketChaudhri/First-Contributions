@@ -9,7 +9,7 @@ How to make a valid pull request and participate in HacktoberFest?
 
 3.Now open the cloned repository folder in your favourite code editor, make a new directory/folder as same as your GitHub username. And create files named "your_name".
 
-4.Write a basic bio data of yours. 
+4.*Write some information about yourself and what are you interested to learn?*
 
 5.Enter the following commands to push it to remote origin
 
